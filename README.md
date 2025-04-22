@@ -8,4 +8,4 @@ Let me know if you find any mistake or have any comments/suggestions (cetxue@ust
 
 For educational purposes.
 
-© [2025] [Tianju Xue]. All course materials licensed under [CC BY-NC 4.0]
+© [2025] [Tianju Xue]. All course materials licensed under [CC BY-NC 4.0].
