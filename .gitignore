@@ -1,6 +1,8 @@
 .vscode/launch.json
 .ipynb_checkpoints/
 *.pyc
+*output
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
